@@ -1,16 +1,17 @@
-## Hi there 👋
+# Fool
 
-<!--
-**The-Fool-cmd/The-Fool-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year CS student with a pull toward the physical side of computing. I like building things that solve problems I actually run into — most of my projects sit somewhere between a soldering iron and a code editor: embedded firmware, CAD modeling, and hardware that talks to software.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C, C++, Python, Rust, Bash
+- **Embedded / Hardware:** ESP32, ESPHome, firmware, soldering
+- **Design / Fabrication:** OpenSCAD, CAD, 3D printing
+
+## Featured Projects
+
+| Project | What it does | Why |
+|---|---|---|
+| [Tome-Term](https://github.com/The-Fool-cmd/Tome-Term) | Terminal-based personal book library with a SQLite backend — track, rate, and filter your reading list. | Built to keep track of what I'm reading without leaving the terminal — a simple problem I kept running into. |
+| [Meridian-wake-word](https://github.com/The-Fool-cmd/Meridian-wake-word) | Custom "Hey Meridian" wake word for ESPHome / Home Assistant Voice PE — 62 KB TFLite model plus full training pipeline. | Wanted a custom wake word for Home Assistant instead of the defaults, so I trained my own. |
+| [ESP32-eink-client](https://github.com/The-Fool-cmd/ESP32-eink-client) / [ESP32-eink-server](https://github.com/The-Fool-cmd/ESP32-eink-server) | Firmware and backend for a set of e-ink dashboards. | Backend handles the data side, firmware drives the displays — I run a set of these dashboards around my room. |
