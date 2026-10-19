@@ -1,6 +1,6 @@
 # Fool
 
-Third-year CS student with a pull toward the physical side of computing. I like building things that solve problems I actually run into — most of my projects sit somewhere between a soldering iron and a code editor: embedded firmware, CAD modeling, and hardware that talks to software.
+Third-year CS student with a pull toward the physical side of computing. I like building things that solve problems I actually run into.
 
 ## Skills
 
